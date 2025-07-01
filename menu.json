@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Sample Dish",
+    "description": "This is a test item.",
+    "price": "₹199",
+    "image": "uploads/sample.jpg"
+  }
+]
